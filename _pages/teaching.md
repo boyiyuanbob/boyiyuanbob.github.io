@@ -8,7 +8,7 @@ author_profile: true
 ## University of Calgary
 
 ### Instructor / Guest Lecturer
-- **PHIL 345 – Issues in Environmental Ethics** (Guest Lecture), **Summer 2025**
+- **PHIL 345 – Issues in Environmental Ethics**, **Summer 2025**
 
 ### Teaching Assistant
 - **ECON 677 - Environmental Economics (Graduate level)**,  **Winter 2026**
