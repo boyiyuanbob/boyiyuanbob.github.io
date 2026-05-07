@@ -12,17 +12,14 @@ classes: wide
 Presentations: CEA (Montréal, 2025), CREEA (Winnipeg, 2025).
 </p>
 
-**Status:** Work in progress.
+**Status:** Revise and resubmit, Journal of Environmental Economics and Management.
 
 **Abstract.**  
-This paper investigates whether and how changes in gasoline prices affect individuals’ mobility choices, with a focus on walking activity in Germany. Using regional-level panel data from 2020 to 2022, I first employ an instrumental variables strategy to estimate behavioral responses to general gasoline price fluctuations. The results imply an elasticity of approximately 0.12. To examine responses to large, salient price shocks, I then leverage two plausibly exogenous events: the Russian invasion of Ukraine and the expiration of Germany’s three-month fuel tax cut, implementing an event-study design. These events caused sharp increases in gasoline prices, enabling credible identification of their causal impact on walking behavior. The estimates reveal a substantially stronger response: a 10 percent increase in gasoline prices leads to a 2.2–2.7 percent increase in average daily walking steps. The findings provide empirical evidence that higher gasoline prices cause individuals to substitute toward walking, with larger elasticities observed in response to major price shocks.
+Gasoline price policies are central to transportation decarbonization, yet little is known about whether higher fuel costs shift behavior toward non-motorized travel. This paper examines how gasoline price changes affect walking in Germany using regional daily step data from consumer wearables between 2020 and 2022. I study walking responses to both routine gasoline price fluctuations and large, salient price shocks. I find robust evidence that higher gasoline prices causally increase walking. Responses are modest for routine price variation but substantially larger for policy-driven shocks. By contrast, I find no clear evidence that geopolitical-conflict-driven price shocks generate a larger response than routine fluctuations. Overall, the findings suggest that fuel price policies can induce low-carbon mobility shifts along an overlooked margin and may also generate meaningful short-run health co-benefits through increased walking.
 
-## Pass-Through and Rebound: Lessons from Germany’s 2022 Fuel Tax Cut (with Ajornie Taylor)
-
-**Status:** Work in progress.
-
-## How Transit Access Shapes the Walking Response to Fuel Price Changes
+## Do Pricing Algorithms Change Tax Pass-Through? Station-Level Evidence from Germany’s Fuel-Tax Cut (with Ajornie Taylor)
 
 **Status:** Work in progress.
+
 
 
