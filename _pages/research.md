@@ -1,53 +1,5 @@
----
-layout: single
-title: "Research & Work in Progress"
-permalink: /research/
-author_profile: true
-classes: wide
----
-
-<style>
-.paper-title {
-  font-size: 1.15em;
-  font-weight: 600;
-  margin-top: 1.2em;
-  margin-bottom: 0.25em;
-  line-height: 1.35;
-}
-
-.paper-title a {
-  text-decoration: none;
-}
-
-.paper-note {
-  color: #6b1747;
-  font-style: italic;
-  font-weight: 500;
-}
-
-.research-meta {
-  font-weight: 600;
-  margin-top: 0.2em;
-  margin-bottom: 0.7em;
-}
-
-.research-awards {
-  color: #6b1747;
-  margin-top: 0.3em;
-  margin-bottom: 1em;
-}
-
-.research-awards li {
-  margin-bottom: 0.35em;
-}
-
-.abstract-label {
-  font-weight: 600;
-}
-</style>
-
 <h3 class="paper-title">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6478474">
+  1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6478474">
     Do Gasoline Price Changes Shift Mobility Choices? Evidence from German Walking Behavior
   </a>
   <span class="paper-note">[Working Paper]</span>
@@ -68,11 +20,23 @@ classes: wide
 </p>
 
 <h3 class="paper-title">
-  Do Pricing Algorithms Change Tax Pass-Through? Station-Level Evidence from Germany’s Fuel-Tax Cut
+  2. Do Pricing Algorithms Change Tax Pass-Through? Station-Level Evidence from Germany’s Fuel-Tax Cut
   <span class="paper-note">(with Ajornie Taylor)</span>
 </h3>
 
 <p class="research-meta">
   Work in Progress
+</p>
+
+<h3 class="paper-title">
+  3. Strategic Response to Environmental Shocks: The Political Economy of Bank Branch Allocation in China
+  <span class="paper-note">
+    (with <a href="https://sites.google.com/view/kqiu/">Kangyu Qiu</a> and 
+    <a href="https://sites.google.com/view/shukang/">Shukang Xiao</a>)
+  </span>
+</h3>
+
+<p class="research-meta">
+  Work in Progress; all preliminary results completed
 </p>
 
