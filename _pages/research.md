@@ -16,7 +16,12 @@ classes: wide
 }
 
 .paper-title a {
+  color: #1a73e8;
   text-decoration: none;
+}
+
+.paper-title a:hover {
+  text-decoration: underline;
 }
 
 .paper-note {
