@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Research & Work in Progress"
+permalink: /research/
+author_profile: true
+classes: wide
+---
+
 <h3 class="paper-title">
   1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6478474">
     Do Gasoline Price Changes Shift Mobility Choices? Evidence from German Walking Behavior
