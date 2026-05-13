@@ -25,7 +25,7 @@ classes: wide
 }
 
 .paper-note {
-  color: #6b1747;
+  color: #222222;
   font-style: italic;
   font-weight: 500;
 }
@@ -37,7 +37,7 @@ classes: wide
 }
 
 .research-awards {
-  color: #6b1747;
+  color: #222222;
   margin-top: 0.3em;
   margin-bottom: 1em;
 }
