@@ -94,8 +94,8 @@
   }
 
   img {
-    max-width: 230px;
-    border-radius: 50%;
+    max-width: 200px;
+    border-radius: 8px;   // was 50% (circle) — now a rounded rectangle
 
     @include breakpoint($large) {
       padding: 5px;
