@@ -96,6 +96,22 @@ author_profile: true
 <p class="text-gray">More to come. Check back soon.</p>
 
 ## Past conferences
+### Berkeley/Sloan Summer School in Environmental and Energy Economics — Berkeley, US  
+*August 17-21, 2026*
+
+![Berkeley 1](/images/berkeley1.JPG){: width="49%" }
+![Berkeley 2](/images/berkeley2.JPG){: width="49%" }
+![Berkeley 3](/images/berkeley3.JPG){: width="49%" }
+---
+
+### CEA Annual Conference — Vancouver, Canada  
+*May 28–30, 2026*
+
+![CEA 1](/images/CEA2026_1.JPG){: width="49%" }
+![CEA 2](/images/CEA2026_2.JPG){: width="49%" }
+
+---
+
 ### CREEA Early Career Researcher Workshop — Vancouver, Canada  
 *May 31, 2026*
 
