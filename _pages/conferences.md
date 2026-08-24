@@ -45,6 +45,7 @@ author_profile: true
 .memory-wall__photo--3 { width: 80px; height: 80px; transform: rotate(-4deg) translateY(6px); margin-left: -18px; z-index: 3; }
 .memory-wall__photo--4 { width: 90px; height: 90px; transform: rotate(6deg) translateY(-2px); margin-left: -18px; z-index: 4; }
 .memory-wall__photo--5 { width: 76px; height: 76px; transform: rotate(-5deg) translateY(3px); margin-left: -18px; z-index: 5; }
+.memory-wall__photo--6 { width: 86px; height: 86px; transform: rotate(4deg) translateY(-3px); margin-left: -18px; z-index: 6; }
 .memory-wall__photo:hover {
   transform: rotate(0deg) scale(1.1);
   z-index: 10;
@@ -65,7 +66,6 @@ author_profile: true
   line-height: 1;
 }
 </style>
-
 <div class="memory-wall">
   <p class="memory-wall__intro">Conferences are one of my favorite parts of academic life — I love sharing my work, meeting new friends, and exploring new cities along the way.</p>
   <div class="memory-wall__photos">
@@ -89,6 +89,10 @@ author_profile: true
       <img src="/images/cea2025_1.jpg" alt="CEA conference, Montréal">
       <span class="memory-wall__flag" title="Canada">🇨🇦</span>
     </div>
+    <div class="memory-wall__photo memory-wall__photo--6">
+      <img src="/images/berkeley1.JPG" alt="Berkeley/Sloan Summer School, Berkeley">
+      <span class="memory-wall__flag" title="United States">🇺🇸</span>
+    </div>
   </div>
 </div>
 
@@ -102,6 +106,7 @@ author_profile: true
 ![Berkeley 1](/images/berkeley1.JPG){: width="49%" }
 ![Berkeley 2](/images/berkeley2.JPG){: width="49%" }
 ![Berkeley 3](/images/berkeley3.JPG){: width="49%" }
+
 ---
 
 ### CEA Annual Conference — Vancouver, Canada  
