@@ -63,8 +63,8 @@ classes: wide
 </p>
 
 <ul class="research-awards">
+  <li><em>Best Paper and Presentation Prize, the 12th Canadian PhD & Early Career Workshop in Environmental Economics (CREEA | ACERE)</em></li>
   <li><em>Jim Gaisford Second Year Paper Prize, University of Calgary</em></li>
-  <li><em>Honourable Mention for Best Student Paper, CREEA Annual Conference</em></li>
 </ul>
 
 <p>
