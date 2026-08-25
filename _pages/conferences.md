@@ -121,6 +121,7 @@ author_profile: true
 ---
 ### Electricity Camp in the Rockies — Banff, Canada  
 *May 20–22, 2026*
+
 ![Electricity Camp](/images/electricity_camp_2026.JPG){: width="80%" }
 ---
 ### CREEA Annual Conference — Winnipeg, Canada  
