@@ -74,7 +74,7 @@ classes: wide
 
 <h3 class="paper-title">
   2. Do Pricing Algorithms Change Tax Pass-Through? Station-Level Evidence from Germany’s Fuel-Tax Cut
-  <span class="paper-note">(with Ajornie Taylor)</span>
+  <span class="paper-note">(with <a href="https://ajornietaylor.github.io/">Ajornie Taylor</a>)</span>
 </h3>
 
 <p class="research-meta">
