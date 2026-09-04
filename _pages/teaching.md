@@ -11,7 +11,7 @@ author_profile: true
 - **PHIL 345 – Issues in Environmental Ethics**, **Summer 2025**
 
 ### Teaching Assistant
-- **ECON 677 - Environmental Economics (Graduate level)**,  **Winter 2026**
+- **ECON 677 - Environmental Economics (Graduate level)**,  **Winter 2026, FALL 2026**
 - **ECON 707 – Advanced Microeconomic Theory I (PhD)**, **Fall 2025**
 - **ECON 395 – Introduction to Econometrics**, **Summer 2025**
 - **ECON 715 – Advanced Econometrics II (PhD)**, **Winter 2025**
