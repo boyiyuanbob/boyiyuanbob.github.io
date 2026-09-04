@@ -55,7 +55,7 @@ classes: wide
   1. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6478474">
     Do Gasoline Price Changes Shift Mobility Choices? Evidence from German Walking Behavior
   </a>
-  <span class="paper-note">[Working Paper]</span>
+  <span class="paper-note"></span>
 </h3>
 
 <p class="research-meta">
