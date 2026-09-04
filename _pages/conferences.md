@@ -106,6 +106,8 @@ author_profile: true
 ![Berkeley 2](/images/berkeley2.JPG){: width="80%" }
 
 ![Berkeley 3](/images/berkeley3.JPG){: width="80%" }
+
+![Berkeley 4](/images/berkeley4.JPG){: width="80%" }
 ---
 ### CREEA Early Career Researcher Workshop — Vancouver, Canada  
 *May 31, 2026*
