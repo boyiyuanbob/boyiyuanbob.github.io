@@ -105,7 +105,7 @@ author_profile: true
 <p class="text-gray">More to come. Check back soon.</p>
 ## Past conferences
 ### 19th IAEE European Conference — Munich, Germany  
-* September 6-10, 2026*
+*September 6-10, 2026*
 ![IAEE 1](/images/IAEE 1.JPG){: width="80%" }
 
 ![IAEE 2](/images/IAEE 2.JPG){: width="80%" }
