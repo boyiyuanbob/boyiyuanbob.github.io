@@ -47,6 +47,7 @@ author_profile: true
 .memory-wall__photo--4 { width: 130px; height: 130px; transform: rotate(6deg) translateY(-3deg); margin-left: -26px; z-index: 4; }
 .memory-wall__photo--5 { width: 110px; height: 110px; transform: rotate(-5deg) translateY(4px); margin-left: -26px; z-index: 5; }
 .memory-wall__photo--6 { width: 120px; height: 120px; transform: rotate(4deg) translateY(-4px); margin-left: -26px; z-index: 6; }
+.memory-wall__photo--7 { width: 120px; height: 120px; transform: rotate(-4deg) translateY(5px); margin-left: -26px; z-index: 7; }
 .memory-wall__photo:hover {
   transform: rotate(0deg) scale(1.1);
   z-index: 10;
