@@ -94,11 +94,21 @@ author_profile: true
       <img src="/images/berkeley1.JPG" alt="Berkeley/Sloan Summer School, Berkeley">
       <span class="memory-wall__flag" title="United States">🇺🇸</span>
     </div>
+    <div class="memory-wall__photo memory-wall__photo--7">
+      <img src="/images/IAEE 1.JPG" alt="19th IAEE European Conference, Munich">
+      <span class="memory-wall__flag" title="Germany">🇩🇪</span>
+    </div>
   </div>
 </div>
 ## Upcoming
 <p class="text-gray">More to come. Check back soon.</p>
 ## Past conferences
+### 19th IAEE European Conference — Munich, Germany  
+* September 6-10, 2026*
+![IAEE 1](/images/IAEE 1.JPG){: width="80%" }
+
+![IAEE 2](/images/IAEE 2.JPG){: width="80%" }
+---
 ### Berkeley/Sloan Summer School in Environmental and Energy Economics — Berkeley, US  
 *August 17-21, 2026*
 ![Berkeley 1](/images/berkeley1.JPG){: width="80%" }
